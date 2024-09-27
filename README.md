@@ -48,15 +48,23 @@ I used _ls_ command to view the created files
 
 * Stage
 * Commit
-* Push
- changes 
+* Push changes 
 
  directly to the main branch branch
 
  ### STEPS:
 
- 1. Activate git using _git status_ command
+ ## 1. Activate git using _git status_ command
 
  ![](./img/06.activate%20git.png)
 
- 2. Use _git add ._ to add all files to repository
+ ### 2. Use _git add ._ to add all files to repository, then view with _git status_ command
+
+ ![](./img/07.git%20add.png)
+
+
+ ### 3. Commit changes to repository using "_git commit -m_" command
+
+ ![](./img/08.git%20commit%201.png)
+
+ 
