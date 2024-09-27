@@ -67,3 +67,16 @@ I used _ls_ command to view the created files
  ### 3. Commit changes to repository using "_git commit -m_" command
 
  ![](./img/08.git%20commit%201.png)
+
+
+There were changes made so making the readme file to be highlighted
+
+![](./img/09.git%20status%20readme.png)
+
+So I had to add all files using "_*git add*_" and then I commited the changes using "_"git commit -m"_" command
+
+![](./img/10.update%20readme.png)
+
+After which I pushed the whole changes to the repository
+
+![](./img/11.push.png)
