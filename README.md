@@ -48,7 +48,8 @@ I used _ls_ command to view the created files
 
 * Stage
 * Commit
-* Push changes 
+* Push
+ changes 
 
  directly to the main branch branch
 
@@ -66,5 +67,3 @@ I used _ls_ command to view the created files
  ### 3. Commit changes to repository using "_git commit -m_" command
 
  ![](./img/08.git%20commit%201.png)
-
- 
