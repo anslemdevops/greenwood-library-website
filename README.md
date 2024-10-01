@@ -106,4 +106,34 @@ I then push changes to git gub
 
 ![](./img/16.push%20add-book-reviews.png)
 
-Then, PR for Morgan's work was raise
+Then, PR for Morgan's work was raised and created
+
+![](./img/pull%20request%201.png)
+
+![](./img/create%20pull%20request%201.png)
+
+Then merged
+
+![](./img/merge%20pull%20request%201.png)
+
+And confirmed
+
+![](./img/confirm%20merge%201.png)
+
+![](./img/pull%20request%20merged%20closed.png)
+
+Working tree clean
+
+![](./img/17.clean.png)
+
+
+# TASK NUMBER 3
+
+## Jamie's Work: Updating Events age
+
+I started by creating a new branch name *_update-events_* using the command ... _-git checkout -b update-events-_ 
+
+![](./img/18.new%20branch%20update-events.png)
+
+![](./img/19.update-events%20branch.png)
+
