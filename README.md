@@ -131,9 +131,32 @@ Working tree clean
 
 ## Jamie's Work: Updating Events age
 
-I started by creating a new branch name *_update-events_* using the command ... _-git checkout -b update-events-_ 
+### 1. 
+Am required to pull the latest changes from the main branch into update-events by using the _git pull_ command
 
-![](./img/18.new%20branch%20update-events.png)
+![](./img/20.git%20pill%201.png)
 
-![](./img/19.update-events%20branch.png)
+![](./img/21.git%20pull%202.png)
+
+
+### 2.
+I created and switched a new branch for Jamie called "_update-events_"
+
+![](./img/22.new%20branch%20update-events.png)
+
+### 3.
+
+I staged ...
+
+![](./img/23.staging.png)
+
+Then committed changes made
+
+![](./img/24.commit.png)
+
+And then pushed to my repository
+
+![](./img/25.push.png)
+
+![](./img/26.push%202.png)
 
