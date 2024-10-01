@@ -80,3 +80,11 @@ So I had to add all files using "_*git add*_" and then I commited the changes us
 After which I pushed the whole changes to the repository
 
 ![](./img/11.push.png)
+
+# TASK NUMBER 2
+## Morgan's work: Adding book reviews
+
+1. Create and switche to a new branch named "_add-book-reviews_" using the command *_git checkout -b add-book-reviews_*
+
+!{}(./git)
+
